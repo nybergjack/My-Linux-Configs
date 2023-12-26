@@ -8,5 +8,7 @@ Hyprland config file for ~/.config
 
 ZSH config file for ~/ 
 
+Tmux in ~/
+
 Need to add plugin manager for tmux conf to work:
 https://github.com/tmux-plugins/tpm
